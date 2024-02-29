@@ -16,6 +16,7 @@
     "eslint-plugin-jest": "^27.9.0"
   },
   "dependencies": {
-    "chai": "^4.4.1"
+    "chai": "^4.4.1",
+    "sinon": "^17.0.1"
   }
 }
